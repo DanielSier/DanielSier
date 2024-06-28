@@ -8,7 +8,7 @@ CSS Frameworks: Tailwind CSS, Bootstrap
 Tools/Other: Git, VS Code, etc.
 
 Learning Journey
-Currently, I'm actively learning and explorinh:
+Currently, I'm actively learning and exploring:
 React 
 Vue.js 
 TypeScript 
