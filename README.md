@@ -1,9 +1,7 @@
-Introduction
-Hello there! Welcome to my portfolio repository. I'm Daniel Sier, a passionate developer with expertise in JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, and currently diving deep into React, Vue.js, and TypeScript. This repository serves as a showcase of my projects, skills, and learning journey.
-Skills
+Hello! Welcome to my portfolio repository. I'm Daniel Sier, a Front end developer.
 
 Languages: JavaScript, HTML, CSS, TypeScript
-Frameworks/Libraries: React, Vue.js
+Frameworks/Libraries: React, Vue.js, Nextjs
 CSS Frameworks: Tailwind CSS, Bootstrap
 Tools/Other: Git, VS Code, etc.
 
