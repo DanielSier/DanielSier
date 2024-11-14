@@ -5,4 +5,6 @@ Frameworks/Libraries: React, Vue.js, Nextjs
 CSS Frameworks: Tailwind CSS, Bootstrap
 Tools/Other: Git, VS Code, etc.
 
+Im am currently studying at the Bit Academy!
+
 
