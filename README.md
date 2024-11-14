@@ -5,7 +5,4 @@ Frameworks/Libraries: React, Vue.js, Nextjs
 CSS Frameworks: Tailwind CSS, Bootstrap
 Tools/Other: Git, VS Code, etc.
 
-I am currently learning:
-React 
-Vue.js 
-TypeScript 
+
