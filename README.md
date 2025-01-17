@@ -28,7 +28,7 @@ I'm currently honing my skills at **Bit Academy**, constantly exploring new tech
 ### **Tools & Platforms**
 - Git & GitHub
 - Visual Studio Code
-- [Add any other notable tools you use]
+- ChatGPT
 
 ---
 
